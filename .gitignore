@@ -7,3 +7,4 @@ node_modules
 # NativeScript application
 /dist
 src/services/firebase-config.js
+.vscode
